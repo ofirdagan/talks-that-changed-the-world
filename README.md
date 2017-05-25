@@ -9,5 +9,7 @@ I keep reminding myslef that what may seems obvious to us now wasn't always the 
 * Introducing **NodeJS** by Ryan Dahl (2009) - [video](https://www.youtube.com/watch?v=ztspvPYybIY)
 * Introducing **gruntjs** by Ben Alman - (2012) [video](https://www.youtube.com/watch?v=Xp6aFno24x4)
 * Introducing **ReactJS** by Tom Occhino and Jordan Walke - (2013) [video](https://www.youtube.com/watch?v=XxVg_s8xAms)
+* Hey Underscore, You're Doing It Wrong! - (2013) [video](https://www.youtube.com/watch?v=m3svKOdZijA)  
+  *This one by Brian Lonsdorf (also known as Professor Frisby) was a game changer for me. It made me "click" on what functional programming in javascript is. He doesn't talk about monads, functors or any advanced techniques but rather about the basics of functional composition. I ~~based~~ plagiarized my talk from his. (BenK)*
 
 ### PR are welcomed :)

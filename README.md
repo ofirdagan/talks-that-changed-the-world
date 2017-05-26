@@ -8,6 +8,6 @@ I keep reminding myslef that what may seems obvious to us now wasn't always the 
 * Linus Torvalds on **git** (2007) - [video](https://www.youtube.com/watch?v=4XpnKHJAok8)
 * Introducing **NodeJS** by Ryan Dahl (2009) - [video](https://www.youtube.com/watch?v=ztspvPYybIY)
 * Introducing **gruntjs** by Ben Alman - (2012) [video](https://www.youtube.com/watch?v=Xp6aFno24x4)
-* Introducing **ReactJS** by Tom Occhino and Jordan Walke - (2013) [video](https://www.youtube.com/watch?v=XxVg_s8xAms)
+* Introducing **ReactJS** by Tom Occhino and Jordan Walke - (2013) [video](https://www.youtube.com/watch?v=XxVg_s8xAms) [hackernews comments](https://news.ycombinator.com/item?id=5789085)
 
 ### PR are welcomed :)
